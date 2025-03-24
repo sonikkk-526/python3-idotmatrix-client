@@ -1,0 +1,8 @@
+bleak
+pillow
+cryptography
+asyncio
+requests
+imageio
+numpy
+PyQt5
